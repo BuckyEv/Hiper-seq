@@ -1,4 +1,4 @@
-# miRNA
+# Highly multiplexed, efficient and automated single-cell microRNA sequencing with digital microfluidics
 The code section includes the main workflow and code for performing bioinformatics analysis in the study. 
 The data section, on the other hand, consists of example data used specifically for these code sections. 
 By using these codes in conjunction with the example data, it is possible to generate figures for the main text or supplementary material of the article.
